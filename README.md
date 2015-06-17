@@ -1,3 +1,5 @@
+small change to readme
+
 [jQuery](http://jquery.com/) — New Wave JavaScript
 ==================================================
 
